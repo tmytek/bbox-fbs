@@ -16,3 +16,6 @@
 *.aliases
 *.lvlps
 .cache/
+LabView/__pycache__
+LabView/files/BeamTable
+LabView/logs
